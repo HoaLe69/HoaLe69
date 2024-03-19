@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/vnhal69" target="blank"><img src="https://img.shields.io/twitter/follow/vnhal69?logo=twitter&style=for-the-badge" alt="vnhal69" /></a> </p>
 
-- 🔭 I’m currently working on [SaintStream](https://github.com/HoaLe69/SaintStream)
+<!-- 🔭 I’m currently working on [SaintStream](https://github.com/HoaLe69/SaintStream) -->
 
 - 🌱 I’m currently learning **Nextjs , Reactjs , Spring Boot ...**
 
 - 💬 Ask me about **React , Next ...**
 
-- 📫 How to reach me **hoabanhanh@gmail.com**
+- 📫 How to reach me **leehoa6903@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vnhal69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vnhal69" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/văn-hòa-lê-00aa46288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="văn-hòa-lê-00aa46288" height="30" width="40" /></a>
@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoale69&show_icons=true&locale=en&layout=compact" alt="hoale69" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoale69&show_icons=true&locale=en" alt="hoale69" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoale69&show_icons=true&locale=en" alt="hoale69" /></p>-->
