@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vnhal69" target="blank"><img src="https://img.shields.io/twitter/follow/vnhal69?logo=twitter&style=for-the-badge" alt="vnhal69" /></a> </p>
 
-<!-- 🔭 I’m currently working on [SaintStream](https://github.com/HoaLe69/SaintStream) -->
+🔭 I’m currently working on [FunChat](https://github.com/HoaLe69/fun-chat) 
 
 - 🌱 I’m currently learning **Nextjs , Reactjs , Spring Boot ...**
 
