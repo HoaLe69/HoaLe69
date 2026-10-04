@@ -1,4 +1,4 @@
-# Hi there, I'm Hòa Lê 👋
+# Hi there, I'm Hoa Lee 👋
 
 ### 👨‍💻 Fullstack Engineer | Problem Solver | AI Automation Enthusiast
 
@@ -55,7 +55,7 @@ I am a Fullstack Software Engineer based in Ho Chi Minh City, Vietnam. I special
 
 ### 📬 Get in Touch
 
-- **Portfolio/Website:** [hoalee.dev](https://hoalee.dev)
-- **Email:** [hoalee.dev@gmail.com](mailto:hoalee.dev@gmail.com)
+- **Portfolio/Website:** [hoalee.life](https://hoalee.life)
+- **Email:** [leehoa6903@gmail.com](mailto:leehoa6903@gmail.com)
 - **LinkedIn:** [Hoa Lee](https://linkedin.com/in/devpure)
 - **Location:** Ho Chi Minh City, Vietnam
